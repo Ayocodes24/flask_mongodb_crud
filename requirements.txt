@@ -1,0 +1,8 @@
+Flask
+Flask-PyMongo
+pymongo
+Flask-RESTful
+werkzeug
+cerberus
+flask-swagger-ui
+PyJWT
